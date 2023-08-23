@@ -1,4 +1,4 @@
-package himanshu.seleniumtesting;
+package milind.seleniumtesting;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
